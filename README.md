@@ -39,4 +39,4 @@
   - Online/Offline Recommandation
 
 ## 4.Solution design
-<img src=https://github.com/LeoLee-Xiaohu/IMBA-AWS/blob/aws-v3/imgs/solution_design_aws2.0.drawio.png  width = 80% />
+<img src=https://github.com/LeoLee-Xiaohu/IMBA-AWS/blob/v4/imgs/solution_design_aws4.0.drawio.png  width = 80% />
